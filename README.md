@@ -4,6 +4,34 @@
 
 😀  안녕하세요.  도전하는 개발자 정기연입니다. 😃
 
+
+## 🛠 
+
+#### Communication Tool
+
+> <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
+> <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
+> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+#### BackEnd
+
+> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+
+#### Server
+
+> <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+> <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+> <img src="https://img.shields.io/badge/docker%20compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+#### Studying
+> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+
 ## 👦 Profile
 
 - 👶  1997년 12월 04일 출생
@@ -20,10 +48,12 @@
 - 📞  010-6450-3145
 
 ## 🏆 Prize
-
-- 삼성 청년 SW 아카데미 특화 프로젝트 3등
-- 삼성 청년 SW 아카데미 자율 프로젝트 1등
-
+> 삼성 청년 SW 아카데미 특화 프로젝트 3등<br>
+> 삼성 청년 SW 아카데미 자율 프로젝트 1등
+## 💻 Project
+- [REVERSE](https://github.com/gi-yeon/REVERSE)
+- [Letcipe](https://github.com/gi-yeon/Letcipe)
+- [ssauction](https://github.com/gi-yeon/ssauction)
 ## 📑 Certificate
 - **정보처리기사**
     - 인증기관 : 한국산업인력공단
@@ -33,21 +63,3 @@
 
 - 삼성 청년 SW 아카데미
     - (2022.01.05. ~ 2022.12.30.)
-
-[🛠 Project in SSAFY](https://www.notion.so/17af2bb3518f47cea61b36905285a88e)
-
-[Skills](https://www.notion.so/de92edf05d704f7b80df8e4be3bb5d73)
-<!--
-**gi-yeon/gi-yeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
